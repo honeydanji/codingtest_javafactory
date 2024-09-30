@@ -30,19 +30,36 @@ problem 1 :
 problem 2 : 
 <br />
 <br />
-
+<br />
 problem 3 : 
-
+<br />
+<br />
+<br />
 problem 4 :
-
+<br />
+<br />
+<br />
 problem 5 :
-
+<br />
+<br />
+<br />
 problem 6 : 
-
+<br />
+<br />
+<br />
 problem 7 : 
-
+<br />
+<br />
+<br />
 problem 8 : 
-
+<br />
+<br />
+<br />
 problem 9 :
-
+<br />
+<br />
+<br />
 problem 10 :
+<br />
+<br />
+<br />
