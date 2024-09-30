@@ -2,9 +2,9 @@
 
 ---
 
-## Into Solving Programmers level 1 : 1 - 10
+## Solving Programmers level 1 Problems (1) : 1 - 10
 
-## Problems  and Links
+## Problems and Links
 
 | 문제  | URL |
 | --- | --- |
