@@ -19,7 +19,7 @@
 | problem 9. | [https://school.programmers.co.kr/learn/courses/30/lessons/176963](https://school.programmers.co.kr/learn/courses/30/lessons/176963) |
 | problem 10. | [https://school.programmers.co.kr/learn/courses/30/lessons/172928](https://school.programmers.co.kr/learn/courses/30/lessons/172928) |
 | problem 11. | [https://school.programmers.co.kr/learn/courses/30/lessons/161990](https://school.programmers.co.kr/learn/courses/30/lessons/161990) |
-| problem 13. | [https://school.programmers.co.kr/learn/courses/30/lessons/92334](https://school.programmers.co.kr/learn/courses/30/lessons/160586) |
+| problem 13. | [https://school.programmers.co.kr/learn/courses/30/lessons/160586](https://school.programmers.co.kr/learn/courses/30/lessons/160586) |
 | problem 14. | [https://school.programmers.co.kr/learn/courses/30/lessons/159994](https://school.programmers.co.kr/learn/courses/30/lessons/159994) |
 | problem 15. | [https://school.programmers.co.kr/learn/courses/30/lessons/161989](https://school.programmers.co.kr/learn/courses/30/lessons/161989) |
 | problem 16. | [https://school.programmers.co.kr/learn/courses/30/lessons/155652](https://school.programmers.co.kr/learn/courses/30/lessons/155652) |
